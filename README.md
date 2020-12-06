@@ -5,3 +5,8 @@ The application shows Covid-19 information across the world, mainly different ty
 The first element of the web is a table that shows every country's data such as **total case**, **total death**, and population. 
 
 ![](/images/table.png)
+
+Here are several features for the table:
+* Hide columns 
+* Sort values in each column (ascending or descending)
+* 
