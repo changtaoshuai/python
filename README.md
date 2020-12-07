@@ -18,7 +18,21 @@ Here are several features for the table:
 
 First, the world choropleth map describes the Covid-19 information across the world. The color represents **logarithmic total case**. Blue/purple means small number of cases, while yellow/orange means large number of cases. In addition, by hovering countries on the map, users can see total case, total death, and population of each country. 
 
-#### Interacting with the table above
-After selecting rows in the table, the border of selected country will be highlighted in light blue (US and China). However, after filtering countries, the map will only keep the filtered countries and the other countries will appear black. The filtering function is dispalyed below.
+### Interacting with the table above
+After selecting rows in the table, the border of selected country will be highlighted in light blue (US and China). However, after filtering countries, the map will only keep the filtered countries and the other countries will appear black. The filtering function is dispalyed below (only keeps European countries).
+
+![](/images/map_filtered.png)
+
+
+### Add customized graphs
+
+Two types of graphs are available:
+* Bar chart
+* Line chart
+
+#### Bar Chart
+In bar chart, X axis is countries. Y axis can be one of the following: *Total Case*, *Total Death*, *Population*, *GDP/Capita*, *Life Expectancy*. 
 
 ![]()
+#### Line Chart
+In line chart, X axis is countries. Y axis can be one of the following: *Total Case*,*New Case*,*Total Death*,*New Death*.  
