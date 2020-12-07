@@ -38,4 +38,20 @@ In bar chart, X axis is countries. Y axis can be one of the following: *Total Ca
 #### Line Chart
 In line chart, X axis is countries. Y axis can be one of the following: *Total Case*,*New Case*,*Total Death*,*New Death*.  
 
+![](/images/line_chart.png)
+
+Users can keep adding charts and compare among them. 
+
 ![]()
+
+
+
+
+
+
+
+
+
+
+
+
