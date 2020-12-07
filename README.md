@@ -33,6 +33,9 @@ Two types of graphs are available:
 #### Bar Chart
 In bar chart, X axis is countries. Y axis can be one of the following: *Total Case*, *Total Death*, *Population*, *GDP/Capita*, *Life Expectancy*. 
 
-![]()
+![](/images/bar_chart.png)
+
 #### Line Chart
 In line chart, X axis is countries. Y axis can be one of the following: *Total Case*,*New Case*,*Total Death*,*New Death*.  
+
+![]()
