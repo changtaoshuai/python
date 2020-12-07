@@ -42,7 +42,7 @@ In line chart, X axis is countries. Y axis can be one of the following: *Total C
 
 Users can keep adding charts and compare among them. 
 
-![]()
+![](/images/multiple_charts.png)
 
 
 
